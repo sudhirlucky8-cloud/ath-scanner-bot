@@ -1,1 +1,6 @@
 python-telegram-bot
+yfinance
+pandas
+numpy
+requests
+python-telegram-bot
