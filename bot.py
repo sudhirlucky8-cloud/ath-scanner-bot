@@ -150,7 +150,7 @@ async def scan(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # ==========================================================
 
 app = ApplicationBuilder().token(
-    "YAHAN_APNA_BOT_TOKEN_DALO"
+    "8994080718:AAGvFEESkhLgsXjW-_n7x87O4Z1DXoTt_3s"
 ).build()
 
 app.add_handler(CommandHandler("scan", scan))
