@@ -1,0 +1,4 @@
+[packages]
+libpng-dev = ""
+freetype2-dev = ""
+pkg-config = ""
